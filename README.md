@@ -80,9 +80,6 @@ Full risk report
 
 🚀 Demo Screenshot
 
-(Add your app screenshot here)
-![App Screenshot](screenshot.png)
-
 📂 Project Structure
 final_biotech/
 │
